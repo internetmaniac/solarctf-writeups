@@ -1,6 +1,7 @@
 # Выцветший след
 
 **Категория:** OSINT
+**Флаг:** `SOLARCTF{n0t_cryst4l_c4stl3_1t5_y4nk0vsk1_c4stl3}`
 
 ## Дано
 
